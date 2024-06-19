@@ -1,0 +1,6 @@
+C:\Repositories\obgz\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Repositories\obgz\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Repositories\obgz\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+C:\Repositories\obgz\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Repositories\obgz\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Repositories\obgz\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
